@@ -1,0 +1,18 @@
+{
+    "cakes":[
+        {
+        "id":1,
+        "name": "coklat",
+         "comment": "Coklat enak",
+         "yumFactor": 3,
+         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pound_layer_cake.jpg"
+        },
+        {
+         "id":2,
+         "name": "keju",
+         "comment": "keju enak",
+         "yumFactor": 3,
+         "imageUrl": "https://awsimages.detik.net.id/community/media/visual/2016/12/22/31457fed-984c-4864-bfb6-8b7143736eb8.jpg?w=700&q=90"
+        }
+    ]
+}
